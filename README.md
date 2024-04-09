@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/karene_dono" target="blank"><img src="https://img.shields.io/twitter/follow/karene_dono?logo=twitter&style=for-the-badge" alt="karene_dono" /></a> </p>
 
-- 🔭 I’m currently working on **WeatherWise**. An app designed to provide accurate weather forecasts and real-time updates for users worldwide.
+- 🔭 I’m currently working on  [WeatherWise](https://github.com/Renekakpo/WeatherWise).
 
 - 🌱 I’m currently learning **Kotlin Multiplatform Mobile (KMM)** to explore cross-platform development opportunities and enhance my mobile app development skills.
 
