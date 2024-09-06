@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  [WeatherWise](https://github.com/Renekakpo/WeatherWise).
 
-- 🌱 I’m currently learning **Kotlin Multiplatform Mobile (KMM)** to explore cross-platform development opportunities and enhance my mobile app development skills.
+- 🌱 I'm currently learning backend development with **Spring Boot** for **Java** and **Kotlin** to broaden my expertise in mobile and server-side applications.
 
 - 💬 Ask me about **Android, iOS, Flutter, React Native, Kotlin, BLE, POS Printers, Kiosk app, Survey app**.
 
