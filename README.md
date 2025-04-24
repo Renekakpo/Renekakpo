@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/karene_dono" target="blank"><img src="https://img.shields.io/twitter/follow/karene_dono?logo=twitter&style=for-the-badge" alt="karene_dono" /></a> </p>
 
-- 🔭 I’m currently working on [SmartNest](https://github.com/Renekakpo/smartnest).
+- 🔭 I’m currently working on [WorkerNavAI](https://github.com/workernav/ios-workernav).
 
 - 🌱 I'm currently learning backend development with **Spring Boot** for **Java** and **Kotlin** to broaden my expertise in mobile and server-side applications.
 
